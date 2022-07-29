@@ -1,4 +1,5 @@
 ### Hi, I'm Miguel  😎👋
+![WALLP1](https://user-images.githubusercontent.com/44488220/181675029-8ed35e6f-a2ed-45ac-9e9f-e4584cc2a6a9.jpg)
 
 <!--
 **mikyyt/mikyyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
